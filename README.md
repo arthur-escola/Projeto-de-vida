@@ -1,2 +1,2 @@
-# Projeto-de-vida
-trablhos da aula do projeto de vida
+# Pensamento- Computacional
+trabalhos da aula de Pensamento Computacional
